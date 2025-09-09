@@ -1,0 +1,275 @@
+==== Scan started at Tue Sep  9 02:00:01 AM EDT 2025 ====
+==== Scan started at Tue Sep  9 02:00:01 AM EDT 2025 ====
+Checking repo: 0x-api
+Checking repo: 0x-api
+Already up to date.
+fatal: Unable to create '/home/sherfeyinv/github/0x-api/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Tue Sep  9 02:00:13 AM EDT 2025 - Found: /home/sherfeyinv/github/0x-api/.dockerignore
+Checking repo: 0x-launch-kit
+Tue Sep  9 02:00:14 AM EDT 2025 - Found: /home/sherfeyinv/github/0x-api/.dockerignore
+Checking repo: 0x-launch-kit
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Checking repo: aave-address-book
+Checking repo: aave-address-book
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Tue Sep  9 02:00:29 AM EDT 2025 - Found: /home/sherfeyinv/github/aave-address-book/safe.csv
+Tue Sep  9 02:00:29 AM EDT 2025 - Found: /home/sherfeyinv/github/aave-address-book/safe.csv
+Checking repo: accounts-association-api
+Checking repo: accounts-association-api
+Already up to date.
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Checking repo: action
+Checking repo: action
+Already up to date.
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Checking repo: adhoc-tool
+Checking repo: adhoc-tool
+On branch gh-pages
+Your branch is up to date with 'origin/gh-pages'.
+
+nothing to commit, working tree clean
+On branch gh-pages
+Your branch is up to date with 'origin/gh-pages'.
+
+nothing to commit, working tree clean
+Checking repo: adobe-io-events
+Checking repo: adobe-io-events
+Already up to date.
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Checking repo: agentbase
+Checking repo: agentbase
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/sherfeyinv/github/agentbase/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Checking repo: aiohttp
+Checking repo: aiohttp
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Tue Sep  9 02:01:27 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/3559.doc
+Tue Sep  9 02:01:27 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/3642.doc
+Tue Sep  9 02:01:27 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/3685.doc
+Tue Sep  9 02:01:27 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/4161.doc
+Tue Sep  9 02:01:28 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/4452.doc
+Tue Sep  9 02:01:28 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/4504.doc
+Tue Sep  9 02:01:28 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/4695.doc
+Tue Sep  9 02:01:28 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/5191.doc
+Tue Sep  9 02:01:28 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/6979.doc
+Tue Sep  9 02:01:28 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/6998.doc
+Tue Sep  9 02:01:28 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/8197.doc
+Tue Sep  9 02:01:28 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/tools/testing/Dockerfile.dockerignore
+Checking repo: aks-agic
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Tue Sep  9 02:01:30 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/3559.doc
+Tue Sep  9 02:01:30 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/3642.doc
+Tue Sep  9 02:01:31 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/3685.doc
+Tue Sep  9 02:01:31 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/4161.doc
+Tue Sep  9 02:01:31 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/4452.doc
+Tue Sep  9 02:01:31 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/4504.doc
+Tue Sep  9 02:01:31 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/4695.doc
+Tue Sep  9 02:01:31 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/5191.doc
+Tue Sep  9 02:01:31 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/6979.doc
+Tue Sep  9 02:01:31 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/6998.doc
+Tue Sep  9 02:01:31 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/CHANGES/8197.doc
+Tue Sep  9 02:01:31 AM EDT 2025 - Found: /home/sherfeyinv/github/aiohttp/tools/testing/Dockerfile.dockerignore
+Checking repo: aks-agic
+Checking repo: algo
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Checking repo: algo
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Tue Sep  9 02:01:54 AM EDT 2025 - Found: /home/sherfeyinv/github/algo/.dockerignore
+Checking repo: alist
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Tue Sep  9 02:01:57 AM EDT 2025 - Found: /home/sherfeyinv/github/algo/.dockerignore
+Checking repo: alist
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Checking repo: analytics-reporter
+On branch develop
+Your branch is up to date with 'origin/develop'.
+
+nothing to commit, working tree clean
+Checking repo: analytics-reporter
+On branch develop
+Your branch is up to date with 'origin/develop'.
+
+nothing to commit, working tree clean
+Checking repo: api-enumerations
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Checking repo: api-enumerations
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Checking repo: AppAuth-Android
+Checking repo: AppAuth-Android
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Checking repo: app-store-server-library-node
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Checking repo: app-store-server-library-node
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Checking repo: a-Shell-commands
+Checking repo: a-Shell-commands
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Checking repo: fireworks
+Checking repo: fireworks
+fatal: Unable to create '/home/sherfeyinv/github/fireworks/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Tue Sep  9 02:02:47 AM EDT 2025 - Found: /home/sherfeyinv/github/fireworks/filings_list.csv
+Tue Sep  9 02:02:47 AM EDT 2025 - Found: /home/sherfeyinv/github/fireworks/filings_list.csv
+Checking repo: InvestmentScanner
+Checking repo: InvestmentScanner
+fatal: Unable to create '/home/sherfeyinv/github/InvestmentScanner/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/home/sherfeyinv/github/InvestmentScanner/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch main
+nothing to commit, working tree clean
+Checking repo: ultimate_repo_scanner
+Checking repo: ultimate_repo_scanner
